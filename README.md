@@ -1,5 +1,9 @@
 # news-image-20261126 — The World Today
 
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/Efendiiii/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/Efendiiii/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+
 ![Competition](https://img.shields.io/badge/competition-news--image--20261126-blue)
 ![Prize](https://img.shields.io/badge/prize-%24100%20top%2050-green)
 ![Date](https://img.shields.io/badge/date-Thursday%2026%20November%202026-red)
